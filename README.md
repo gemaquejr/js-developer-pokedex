@@ -2,7 +2,7 @@
 
 Primeiro desafio de projeto desenvolvido no Santander Bootcamp 2023 - Fullstack Java+Angular.
 
-O projeto consistia em nelhorar uma pokedéx base usando HTML e CSS e Javascript. O site deveria estar com elementos posicionados e estilizados e além disto, deveria conter semântica apropriada para que seja acessível e melhor ranqueado.
+O projeto consistia em melhorar uma pokedéx base usando HTML e CSS e Javascript. O site deveria estar com elementos posicionados e estilizados e além disto, deveria conter semântica apropriada para que seja acessível e melhor ranqueado.
 
 ## 🚀 Tecnologia
 
